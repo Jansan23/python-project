@@ -7,7 +7,7 @@ words = ['rainbow','computer','sciece', 'programming','phython','mathematics',
 
 word = random.choice(words)
 
-print("guess the characters")#jdjdsjsjsj
+print("guess the characters")
 
 guesses = ''
 turns = 12
